@@ -1,0 +1,14 @@
+{
+  "name": "blhjr-portfolio",
+  "version": "0.0.1",
+  "description": "This is the portfolio of bobby leon hall jr",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/style.css -watch"
+  },
+  "author": "Bobby Leon Hall Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
